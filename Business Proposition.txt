@@ -1,0 +1,5 @@
+Can we predict collision type before the accident has happened?
+
+Car manufacturers spend millions developing intelligent accident avoidance software and hardware to keep us safe in a collision. However, are these solutions optimised based on other factors to suit the accident type you are most likely to have? For instance does the time of day impact whether a driver is more likely to encounter a cyclist and therefore be involved in a collision with them?
+
+This project appeals to two main audiences; car manufacturers who could use my prediciton data to optimise their systems to more effectively avoid the most likely types of collision, and local and national government officials who could introduce dynamic warning signs or adjust the highway code to make motorists more aware of particular hazards based on current variables. 
